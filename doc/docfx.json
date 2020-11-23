@@ -64,7 +64,7 @@
             "templates"
         ],
         "xrefService": [
-            "https://xref.docs.microsoft.com/query?uid={uid}"
+            "https://xref.docs.microsoft.com/query?uid={{uid}}"
         ],
         "postProcessors": [],
         "markdownEngineName": "markdig",
